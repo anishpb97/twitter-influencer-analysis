@@ -63,10 +63,6 @@ handleFile = (users) => {
                             <td>${user.verified}</td>
                         </tr>
                         <tr>
-                            <th>Name</th>
-                            <td>${user.name}</td>
-                        </tr>
-                        <tr>
                             <th>Statuses count</th>
                             <td>${user.statuses_count}</td>
                         </tr>
